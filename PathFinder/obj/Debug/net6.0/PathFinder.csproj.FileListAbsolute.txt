@@ -1,0 +1,15 @@
+D:\C#\PathFinder\PathFinder\bin\Debug\net6.0\PathFinder.exe
+D:\C#\PathFinder\PathFinder\bin\Debug\net6.0\PathFinder.deps.json
+D:\C#\PathFinder\PathFinder\bin\Debug\net6.0\PathFinder.runtimeconfig.json
+D:\C#\PathFinder\PathFinder\bin\Debug\net6.0\PathFinder.dll
+D:\C#\PathFinder\PathFinder\bin\Debug\net6.0\PathFinder.pdb
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.csproj.AssemblyReference.cache
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.AssemblyInfoInputs.cache
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.AssemblyInfo.cs
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.csproj.CoreCompileInputs.cache
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.dll
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\refint\PathFinder.dll
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.pdb
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\PathFinder.genruntimeconfig.cache
+D:\C#\PathFinder\PathFinder\obj\Debug\net6.0\ref\PathFinder.dll
